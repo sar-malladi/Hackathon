@@ -1,0 +1,44 @@
+HackJA Notes
+- Breakout room: 3
+- Take courses in topics like machine learning on coursera
+- Join competitiions
+- https://www.picoctf.org/
+
+Competition:
+
+~ Challenge: Best Hack for Education: Due to the onslaught of the Coronavirus, education has become significantly
+  more difficult as classrooms move online. Edtech is more important than ever. What would make your life as a student
+  more efficient? What tech would benefit other students? Create a website or service that’s useful for education. Note:
+  You may want to look into public APIs for educational tech you already use, or start from scratch and create something
+  entirely original.
+~ Doc: https://docs.google.com/document/d/1douk44h6GaREJKO3x78xKu96pRxbvJYsmz1u9UWMB8k/edit#
+~ Rubric: https://docs.google.com/document/d/1g9QUllEo9-CrYMevzyudiugNSp4bWOY4rhtvUo5Kd0E/edit
+
+~ Ideas for MVP
+	~ Key word I saw in the prompt was "efficient" which made me think about all the free time that online learning has given us.
+	~ Application that allows students to make the use of this free time. User selects what kind of activity they would prefer.
+ Based on their response, website suggests activities to increase user's productivity.
+        ~ Button Ideas: Do you feel like....
+          ~ Learning a new skill
+		  ~ Picking up an existing skilld
+		~ When start learning new skill, add to this page
+        ~ Label By: Soft skills developed, time required, age range, difficulty level
+~ Come up with a good name!
+
+~ Ideas for Future Version
+	~ Sort by time, age range, difficulty level, activity type OR survey in which user enters these values
+
+~ Submit by: 1 pm tomorrow on Devpost
+
+
+TODAY:
+
+	- Make main page header an image
+	- Write the content of the website (main pages and branch pages)
+		- Create tables in each with info like: time required, etc.
+	- Replace "develop an existing skill" with something else
+	
+
+Presentation:
+- Readdress the problem
+- Emphasize how YOUR project solves this problem!
